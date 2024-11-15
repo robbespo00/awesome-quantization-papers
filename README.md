@@ -34,7 +34,7 @@ John Paparrizos, Ikraduya Edian, Chunwei Liu, Aaron J. Elmore, Michael J. Frankl
 9. [Similarity search in the blink of an eye with compressed indices](https://arxiv.org/pdf/2304.04759)
 Cecilia Aguerrebere, Ishwar Singh Bhati, Mark Hildebrand, Mariano Tepper, & Theodore Willke. (2023). Similarity search in the blink of an eye with compressed indices.
 
-10.[Query-Aware Quantization for Maximum Inner Product Search](https://ojs.aaai.org/index.php/AAAI/article/view/25613)
+10. [Query-Aware Quantization for Maximum Inner Product Search](https://ojs.aaai.org/index.php/AAAI/article/view/25613)
 Haodi Zhang, Baoyun Wang, & Enhong Chen. (2023). Query-Aware Quantization for Maximum Inner Product Search.
 
 11. [SOAR: Improved Indexing for Approximate Nearest Neighbor Search](https://arxiv.org/pdf/2404.00774)
